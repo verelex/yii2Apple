@@ -8,9 +8,9 @@ $config = [
         ],
         'db' => [
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:host=localhost;dbname=u0856195_default',
-            'username' => 'u0856195_default',
-            'password' => 'common%7',
+            'dsn' => 'mysql:host=localhost;dbname=u0856195_frontend',
+            'username' => 'u0856195_userf',
+            'password' => 'frontend%',
             'charset' => 'utf8',
         ],
     ],
